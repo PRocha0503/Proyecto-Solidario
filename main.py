@@ -5,7 +5,7 @@ from tkinter import messagebox
 from tkinter import OptionMenu
 from tkinter import *
 
-#ejemplo de gi
+
 def acceso():
 
   ventana=tkinter.Tk()
